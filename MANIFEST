@@ -1,0 +1,17 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.mkdn
+SIGNATURE
+dist.ini
+lib/Auth/YubiKey/Client/Web.pm
+lib/Auth/YubiKey/Client/Web/Response.pm
+script/auth-yubikey-demo
+t/00-load.t
+t/release-kwalitee.t
+t/release-no-tabs.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
